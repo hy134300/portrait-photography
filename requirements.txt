@@ -1,0 +1,9 @@
+diffusers==0.29.2
+huggingface-hub==0.23.3
+spaces==0.19.4
+numpy
+accelerate
+omegaconf
+peft
+insightface==0.7.3
+controlnet_aux
